@@ -1,13 +1,13 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-04T01:17:36-08:00",
+  "updated_at": "2026-11-04T01:27:38-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
-    "fetched_at": "2026-11-04T01:16:35-08:00",
+    "fetched_at": "2026-11-04T01:27:11-08:00",
     "last_change_at": "2026-11-04T00:50:16-08:00",
-    "sos_reporting_time": "November 4, 2026, 1:09 a.m.",
-    "snap": "snap_20261104T091635Z.json"
+    "sos_reporting_time": "November 4, 2026, 1:19 a.m.",
+    "snap": "snap_20261104T092711Z.json"
   },
   "candidates": [
     {
