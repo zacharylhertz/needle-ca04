@@ -1,10 +1,10 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-04T07:49:53-08:00",
+  "updated_at": "2026-11-04T07:59:58-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
-    "fetched_at": "2026-11-04T07:47:01-08:00",
+    "fetched_at": "2026-11-04T07:57:34-08:00",
     "last_change_at": "2026-11-04T04:21:15-08:00",
     "sos_reporting_time": "November 4, 2026, 6:27 a.m.",
     "snap": "snap_20261104T144841Z.json"
@@ -71,7 +71,12 @@
       "expected_total_lo90": 3113,
       "expected_total_hi90": 5847,
       "total_source": "registration_prior",
-      "late_shift_mean": -0.2
+      "late_shift_mean": -0.2,
+      "remaining_lo90": 1134,
+      "remaining_hi90": 3868,
+      "remaining_margin_lo90": -34.3,
+      "remaining_margin_hi90": -6.1,
+      "june_late_swing_DR": 5.4
     },
     {
       "county": "lake",
@@ -93,7 +98,12 @@
       "expected_total_lo90": 1354,
       "expected_total_hi90": 2546,
       "total_source": "registration_prior",
-      "late_shift_mean": 3.1
+      "late_shift_mean": 3.1,
+      "remaining_lo90": 806,
+      "remaining_hi90": 1998,
+      "remaining_margin_lo90": -28.1,
+      "remaining_margin_hi90": 8.9,
+      "june_late_swing_DR": 13.3
     },
     {
       "county": "napa",
@@ -115,7 +125,12 @@
       "expected_total_lo90": 33172,
       "expected_total_hi90": 62240,
       "total_source": "registration_prior",
-      "late_shift_mean": 8.9
+      "late_shift_mean": 8.9,
+      "remaining_lo90": 15285,
+      "remaining_hi90": 44353,
+      "remaining_margin_lo90": 16.5,
+      "remaining_margin_hi90": 40.7,
+      "june_late_swing_DR": 21.1
     },
     {
       "county": "placer",
@@ -137,7 +152,12 @@
       "expected_total_lo90": 21151,
       "expected_total_hi90": 39830,
       "total_source": "registration_prior",
-      "late_shift_mean": 3.5
+      "late_shift_mean": 3.5,
+      "remaining_lo90": 2534,
+      "remaining_hi90": 21213,
+      "remaining_margin_lo90": -34.3,
+      "remaining_margin_hi90": -10.1,
+      "june_late_swing_DR": 8.6
     },
     {
       "county": "sacramento",
@@ -159,7 +179,12 @@
       "expected_total_lo90": 7654,
       "expected_total_hi90": 14384,
       "total_source": "registration_prior",
-      "late_shift_mean": 7
+      "late_shift_mean": 7,
+      "remaining_lo90": 2191,
+      "remaining_hi90": 8921,
+      "remaining_margin_lo90": -30.1,
+      "remaining_margin_hi90": -4.4,
+      "june_late_swing_DR": 16.4
     },
     {
       "county": "sonoma",
@@ -181,7 +206,12 @@
       "expected_total_lo90": 40460,
       "expected_total_hi90": 76323,
       "total_source": "registration_prior",
-      "late_shift_mean": 7
+      "late_shift_mean": 7,
+      "remaining_lo90": 13811,
+      "remaining_hi90": 49674,
+      "remaining_margin_lo90": 4.8,
+      "remaining_margin_hi90": 28.7,
+      "june_late_swing_DR": 16
     },
     {
       "county": "sutter",
@@ -203,7 +233,12 @@
       "expected_total_lo90": 17331,
       "expected_total_hi90": 32686,
       "total_source": "registration_prior",
-      "late_shift_mean": 1.5
+      "late_shift_mean": 1.5,
+      "remaining_lo90": 5871,
+      "remaining_hi90": 21226,
+      "remaining_margin_lo90": -48.6,
+      "remaining_margin_hi90": -24.1,
+      "june_late_swing_DR": 7.3
     },
     {
       "county": "yolo",
@@ -225,7 +260,12 @@
       "expected_total_lo90": 33184,
       "expected_total_hi90": 62373,
       "total_source": "registration_prior",
-      "late_shift_mean": 5.3
+      "late_shift_mean": 5.3,
+      "remaining_lo90": 3956,
+      "remaining_hi90": 33145,
+      "remaining_margin_lo90": 5.4,
+      "remaining_margin_hi90": 29.6,
+      "june_late_swing_DR": 11.5
     },
     {
       "county": "yuba",
@@ -247,7 +287,12 @@
       "expected_total_lo90": 13281,
       "expected_total_hi90": 24959,
       "total_source": "registration_prior",
-      "late_shift_mean": 2.5
+      "late_shift_mean": 2.5,
+      "remaining_lo90": 6142,
+      "remaining_hi90": 17820,
+      "remaining_margin_lo90": -43.6,
+      "remaining_margin_hi90": -18.7,
+      "june_late_swing_DR": 9.2
     }
   ],
   "history": [
