@@ -1,10 +1,10 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-05T15:36:05-08:00",
+  "updated_at": "2026-11-05T15:46:08-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
-    "fetched_at": "2026-11-05T15:31:10-08:00",
+    "fetched_at": "2026-11-05T15:41:39-08:00",
     "last_change_at": "2026-11-05T15:04:58-08:00",
     "sos_reporting_time": "November 5, 2026, 3:03 p.m.",
     "snap": "snap_20261105T231527Z.json"
