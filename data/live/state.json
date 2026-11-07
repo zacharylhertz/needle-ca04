@@ -1,7 +1,7 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-06T16:11:05-08:00",
+  "updated_at": "2026-11-06T16:15:13-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
     "fetched_at": "2026-11-06T16:10:19-08:00",
@@ -25,25 +25,25 @@
   ],
   "counted_votes": 129225,
   "expected_total": {
-    "mid": 247112,
-    "lo90": 203417,
-    "hi90": 304894
+    "mid": 238986,
+    "lo90": 195360,
+    "hi90": 296529
   },
-  "pct_counted_est": 52.3,
+  "pct_counted_est": 54.1,
   "estimate": {
-    "margin_mid": 0.3,
-    "margin_lo50": -0.9,
-    "margin_hi50": 1.5,
-    "margin_lo90": -2.8,
-    "margin_hi90": 3.2,
-    "margin_lo95": -3.4,
-    "margin_hi95": 3.8,
-    "p_thompson": 0.575,
-    "p_jones": 0.425
+    "margin_mid": -0.5,
+    "margin_lo50": -1.8,
+    "margin_hi50": 0.6,
+    "margin_lo90": -3.6,
+    "margin_hi90": 2.2,
+    "margin_lo95": -4.2,
+    "margin_hi95": 2.8,
+    "p_thompson": 0.375,
+    "p_jones": 0.625
   },
   "ballots_outstanding": {
     "as_of": "2026-11-05T17:06:00-08:00",
-    "total_ca04_est": 34011,
+    "total_ca04_est": 25867,
     "note": "From county unprocessed-ballot reports for 1 of 9 county parts, scaled by each part's share of ballots counted; other parts use the model."
   },
   "trailing_needs": {
@@ -51,8 +51,8 @@
     "leader": "Eric Jones",
     "trailer": "Mike Thompson",
     "lead_votes": 3313,
-    "remaining_votes_mid": 117887,
-    "needed_share_of_remaining": 51.4
+    "remaining_votes_mid": 109761,
+    "needed_share_of_remaining": 51.5
   },
   "by_county": [
     {
@@ -117,21 +117,21 @@
       "votes_thompson": 13524,
       "votes_jones": 9087,
       "margin": 19.6,
-      "expected_total_mid": 56596,
-      "pct_counted_est": 40,
-      "remaining_mid": 33985,
+      "expected_total_mid": 48458,
+      "pct_counted_est": 46.7,
+      "remaining_mid": 25847,
       "remaining_margin_mid": 26.2,
       "june_margin": 48.6,
       "swing_vs_june": -28.9,
       "sos_reporting": "100% (147 of 147) precincts reporting",
       "sos_reporting_time": "November 6, 2026, 3:59 p.m.",
       "registered": 86473,
-      "expected_total_lo90": 51391,
-      "expected_total_hi90": 62663,
+      "expected_total_lo90": 44500,
+      "expected_total_hi90": 53073,
       "total_source": "manual_unprocessed",
       "late_shift_mean": 6.6,
-      "remaining_lo90": 28780,
-      "remaining_hi90": 40052,
+      "remaining_lo90": 21889,
+      "remaining_hi90": 30462,
       "remaining_margin_lo90": 18.7,
       "remaining_margin_hi90": 33.8,
       "june_late_swing_DR": 21.1
@@ -662,15 +662,15 @@
     },
     {
       "t": "2026-11-06T16:10:19-08:00",
-      "p_thompson": 0.575,
-      "margin_mid": 0.3,
-      "margin_lo50": -0.9,
-      "margin_hi50": 1.5,
-      "margin_lo90": -2.8,
-      "margin_hi90": 3.2,
+      "p_thompson": 0.375,
+      "margin_mid": -0.5,
+      "margin_lo50": -1.8,
+      "margin_hi50": 0.6,
+      "margin_lo90": -3.6,
+      "margin_hi90": 2.2,
       "reported_margin": -2.6,
       "counted_votes": 129225,
-      "pct_counted_est": 52.3,
+      "pct_counted_est": 54.1,
       "reconstructed": false,
       "state_key": "colusa:1423:2189|lake:239:309|napa:13524:9087|placer:7478:12753|sacramento:2070:3393|sonoma:15896:13037|sutter:3558:7902|yolo:16402:12826|yuba:2366:4773",
       "sos_reporting_time": "November 6, 2026, 3:59 p.m."
