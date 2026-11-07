@@ -1,10 +1,10 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-07T14:01:19-08:00",
+  "updated_at": "2026-11-07T14:11:22-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
-    "fetched_at": "2026-11-07T13:56:01-08:00",
+    "fetched_at": "2026-11-07T14:06:31-08:00",
     "last_change_at": "2026-11-06T23:49:12-08:00",
     "sos_reporting_time": "November 6, 2026, 11:00 p.m.",
     "snap": "snap_20261107T074912Z.json"
@@ -25,25 +25,25 @@
   ],
   "counted_votes": 140581,
   "expected_total": {
-    "mid": 238326,
-    "lo90": 196234,
-    "hi90": 295385
+    "mid": 240833,
+    "lo90": 198799,
+    "hi90": 297923
   },
-  "pct_counted_est": 59,
+  "pct_counted_est": 58.4,
   "estimate": {
-    "margin_mid": -0.6,
-    "margin_lo50": -1.6,
-    "margin_hi50": 0.5,
-    "margin_lo90": -3.2,
-    "margin_hi90": 1.9,
-    "margin_lo95": -3.8,
-    "margin_hi95": 2.4,
-    "p_thompson": 0.36,
-    "p_jones": 0.64
+    "margin_mid": -0.3,
+    "margin_lo50": -1.4,
+    "margin_hi50": 0.8,
+    "margin_lo90": -3,
+    "margin_hi90": 2.2,
+    "margin_lo95": -3.5,
+    "margin_hi95": 2.7,
+    "p_thompson": 0.43,
+    "p_jones": 0.57
   },
   "ballots_outstanding": {
-    "as_of": "2026-11-05T17:06:00-08:00",
-    "total_ca04_est": 25867,
+    "as_of": "2026-11-06T16:17:00-08:00",
+    "total_ca04_est": 28361,
     "note": "From county unprocessed-ballot reports for 1 of 9 county parts, scaled by each part's share of ballots counted; other parts use the model."
   },
   "trailing_needs": {
@@ -51,7 +51,7 @@
     "leader": "Eric Jones",
     "trailer": "Mike Thompson",
     "lead_votes": 4365,
-    "remaining_votes_mid": 97745,
+    "remaining_votes_mid": 100252,
     "needed_share_of_remaining": 52.2
   },
   "by_county": [
@@ -117,21 +117,21 @@
       "votes_thompson": 13524,
       "votes_jones": 9087,
       "margin": 19.6,
-      "expected_total_mid": 48502,
-      "pct_counted_est": 46.6,
-      "remaining_mid": 25891,
+      "expected_total_mid": 50999,
+      "pct_counted_est": 44.3,
+      "remaining_mid": 28388,
       "remaining_margin_mid": 26,
       "june_margin": 48.6,
       "swing_vs_june": -28.9,
       "sos_reporting": "100% (147 of 147) precincts reporting",
       "sos_reporting_time": "November 6, 2026, 3:59 p.m.",
       "registered": 86473,
-      "expected_total_lo90": 44604,
-      "expected_total_hi90": 53177,
+      "expected_total_lo90": 46724,
+      "expected_total_hi90": 56124,
       "total_source": "manual_unprocessed",
       "late_shift_mean": 6.5,
-      "remaining_lo90": 21993,
-      "remaining_hi90": 30566,
+      "remaining_lo90": 24113,
+      "remaining_hi90": 33513,
       "remaining_margin_lo90": 18.7,
       "remaining_margin_hi90": 33.6,
       "june_late_swing_DR": 21.1
