@@ -1,10 +1,10 @@
 {
   "race": "CA-04",
   "status": "counting",
-  "updated_at": "2026-11-07T14:11:22-08:00",
+  "updated_at": "2026-11-07T14:14:16-08:00",
   "feed": {
     "source": "https://api.sos.ca.gov/returns/us-rep/district/4",
-    "fetched_at": "2026-11-07T14:06:31-08:00",
+    "fetched_at": "2026-11-07T14:11:47-08:00",
     "last_change_at": "2026-11-06T23:49:12-08:00",
     "sos_reporting_time": "November 6, 2026, 11:00 p.m.",
     "snap": "snap_20261107T074912Z.json"
@@ -722,15 +722,15 @@
     },
     {
       "t": "2026-11-06T23:49:12-08:00",
-      "p_thompson": 0.36,
-      "margin_mid": -0.6,
-      "margin_lo50": -1.6,
-      "margin_hi50": 0.5,
-      "margin_lo90": -3.2,
-      "margin_hi90": 1.9,
+      "p_thompson": 0.43,
+      "margin_mid": -0.3,
+      "margin_lo50": -1.4,
+      "margin_hi50": 0.8,
+      "margin_lo90": -3,
+      "margin_hi90": 2.2,
       "reported_margin": -3.1,
       "counted_votes": 140581,
-      "pct_counted_est": 59,
+      "pct_counted_est": 58.4,
       "reconstructed": false,
       "state_key": "colusa:1423:2189|lake:239:309|napa:13524:9087|placer:7478:12753|sacramento:2729:4371|sonoma:15896:13037|sutter:4338:9529|yolo:19433:15179|yuba:3048:6019",
       "sos_reporting_time": "November 6, 2026, 11:00 p.m."
